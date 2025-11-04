@@ -36,6 +36,6 @@ Set source (train) length
 
 **Tested environment:**
 
-Ubuntu 24.04.2 LTS, Gnat 14.2.1, GtkAda 25.0.1, OpenAL-Ada (Coreland) 1.1.1, Alire 2.0.2
+Ubuntu 24.04.2 LTS, gcc 13.3.0, GtkAda 25.0.1, OpenAL-Ada (Coreland) 1.1.1, Alire 2.0.2
 
 PC: OMEN 17-ck2095cl, i9-13900HX, RTX-4080
