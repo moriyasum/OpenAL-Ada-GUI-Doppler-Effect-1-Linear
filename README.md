@@ -34,6 +34,10 @@ Set listener distance from the track
 
 Set source (train) length
 
+**Detail**
+https://n7sd.com/ada1-2/openal_gtkada_gui_doppler_effect_1_linear/
+
+
 **Tested environment:**
 
 Ubuntu 24.04.2 LTS, gcc 13.3.0, GtkAda 25.0.1, OpenAL-Ada (Coreland) 1.1.1, Alire 2.0.2
