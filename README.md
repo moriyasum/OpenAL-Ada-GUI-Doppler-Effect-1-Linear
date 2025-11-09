@@ -1,4 +1,4 @@
-# OpenAL-Ada-GUI-Doppler-Effect-1-Linear
+# OpenAL-GtkAda-GUI-Doppler-Effect-1-Linear
 A GUI Ada application that demonstrates the Doppler effect using OpenAL-Ada
 
 **1. Tone Audio Doppler Effect Demo**
@@ -46,4 +46,8 @@ https://n7sd.com/ada1-2/openal_gtkada_gui_doppler_effect_1_linear/
 
 Ubuntu 24.04.2 LTS, gcc 13.3.0, GtkAda 25.0.1, OpenAL-Ada (Coreland) 1.1.1, Alire 2.0.2
 
-PC: OMEN 17-ck2095cl, i9-13900HX, RTX-4080
+PC1: OMEN 17-ck2095cl, i9-13900HX, RTX-4080
+
+PC2: HP ENVY 17t-S100, i7-6700HQ, 16GB, Intel HD Graphics 530
+
+Audio source file: Mono, 44.1kHz, 16bit, WAV file
